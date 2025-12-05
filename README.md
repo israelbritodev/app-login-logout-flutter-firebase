@@ -27,9 +27,8 @@ Ele contém:
 
 ### 🌐 2. Testar no Navegador (Web)
 
-Se você publicar no GitHub Pages:
-
-👉 
+GitHub Pages:
+👉 https://israelbritodev.github.io/app-login-logout-flutter-firebase/
 
 
 ## 💻 Como Rodar Localmente (Desenvolvedores)
